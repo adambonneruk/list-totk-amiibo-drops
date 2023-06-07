@@ -1,5 +1,8 @@
 # Amiibo drops for Legend of Zelda: Tears of the Kingdom
 
+> **Note:** Sticker column refers to my personal NTAG215 collection. More specifically, if i've created a sticker for the card based on the official amiibo and boxart
+
+## Tears of the Kingdom Drops
 | Image                                    | Collection            | Amiibo             | Fabric               | Clothing Set | Weapon                 | Notes                   | Sticker |
 | ---------------------------------------- | --------------------- | ------------------ | -------------------- | ------------ | ---------------------- | ----------------------- | ------- |
 | ![](.images/amiibo-smash-link.webp)      | Super Smash Bros.     | Link               |                      | Twilight     |                        | Epona                   | Yes     |
